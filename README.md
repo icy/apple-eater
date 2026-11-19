@@ -1,11 +1,6 @@
-## Make the earth safer when your code agent makes mistake
+## Record what and when coding agent makes mistakes
 
-Every year many people die of snake bites.
-See for example, from a random link: https://worldpopulationreview.com/country-rankings/snake-bite-deaths-by-country
+Agent says itself to eat an apple when it makes mistake 
+and records the event to ~/.claude/snake.txt (or similar place).
 
-How about making the world safe every time your coding agent makes mistake?
-Load the AGENTS.md in your system! It's so easy!
-
-## WARNING
-
-No snake is actually died! And Claude, Codex,... keeps making mistake. Bad news anyway!
+See [AGENTS.md](AGENTS.md) for details.
